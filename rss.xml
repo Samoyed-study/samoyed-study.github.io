@@ -10,9 +10,34 @@
         </author>
         <description>javaer blog</description>
         <language>en</language>
-        <pubDate>Sat, 20 Apr 2024 02:13:23 +0800</pubDate>
-        <lastBuildDate>Sat, 20 Apr 2024 02:13:23 +0800</lastBuildDate>
+        <pubDate>Sat, 20 Apr 2024 02:57:47 +0800</pubDate>
+        <lastBuildDate>Sat, 20 Apr 2024 02:57:47 +0800</lastBuildDate>
         <category term="java" />
+        <item>
+            <guid isPermalink="true">http://example.com/2024/04/20/foo/</guid>
+            <title></title>
+            <link>http://example.com/2024/04/20/foo/</link>
+            <pubDate>Sat, 20 Apr 2024 02:57:47 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;title: 文章标题&lt;br /&gt;
+ date: 文章发布的时间&lt;br /&gt;
+ comment: false   # true/false 对应开启 / 关闭本文章评论&lt;br /&gt;
+ sticky  : true   # 置顶文章&lt;br /&gt;
+ tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;文章标签 1&lt;/li&gt;
+&lt;li&gt;文章标签 2&lt;br /&gt;
+categories:
+&lt;ul&gt;
+&lt;li&gt;[计算机科学，Linux]&lt;br /&gt;
+ cover: cover.png # 文章顶部和文章介绍图（将覆盖文章主页轮播图）&lt;br /&gt;
+audio:&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://music.163.com/song?id=1387098940&#34;&gt;https://music.163.com/song?id=1387098940&lt;/a&gt;&lt;br /&gt;
+audio: false&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/04/20/computer-science/cpp/course-1/%E7%AC%AC%E4%B8%80%E6%BB%B4%E8%A1%80/</guid>
             <title></title>
