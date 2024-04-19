@@ -7,8 +7,8 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2024/04/20/computer-science/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/",
-            "url": "http://example.com/2024/04/20/computer-science/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/",
+            "id": "http://example.com/2024/04/20/computer-science/course-1/cpp/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/",
+            "url": "http://example.com/2024/04/20/computer-science/course-1/cpp/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/",
             "title": "",
             "date_published": "2024-04-19T18:13:23.427Z",
             "content_html": "",
