@@ -9,6 +9,7 @@
       <name>John Doe</name>
     </author>
     <updated>2024-04-19T16:42:30.457Z</updated>
+    <category term="java" />
     <entry>
         <id>http://example.com/2024/04/20/hello-world/</id>
         <title>Hello World</title>
