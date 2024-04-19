@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo",
-    "subtitle": "",
+    "title": null,
+    "subtitle": "小码农笔记",
     "icon": "http://example.com/assets/favicon.ico",
-    "description": "javaer blog",
+    "description": "分享学习经历 填满每一个过程",
     "home_page_url": "http://example.com",
     "items": [
         {

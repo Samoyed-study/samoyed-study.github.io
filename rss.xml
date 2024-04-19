@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
-        <subtitle></subtitle>
+        <title></title>
+        <subtitle>小码农笔记</subtitle>
         <icon>http://example.com/assets/favicon.ico</icon>
         <link>http://example.com</link>
         <author>
-          <name>John Doe</name>
+          <name></name>
         </author>
-        <description>javaer blog</description>
+        <description>分享学习经历 填满每一个过程</description>
         <language>en</language>
         <pubDate>Sat, 20 Apr 2024 02:57:47 +0800</pubDate>
         <lastBuildDate>Sat, 20 Apr 2024 02:57:47 +0800</lastBuildDate>
